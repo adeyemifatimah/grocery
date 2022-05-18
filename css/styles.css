@@ -1,3 +1,12 @@
 .dip{
     text-align: center;
+    font-weight: bolder;
+    font-size: 70px;
+    color: green;
+    font-style: italic;
+}
+body{
+    background-image: url(../img/fru.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
